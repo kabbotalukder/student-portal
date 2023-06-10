@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "//kabbotalukder.github.io//student-portal/static/css/main.af8c69ad.css",
-    "main.js": "//kabbotalukder.github.io//student-portal/static/js/main.b151743a.js",
+    "main.js": "//kabbotalukder.github.io//student-portal/static/js/main.5f8f203a.js",
     "index.html": "//kabbotalukder.github.io//student-portal/index.html",
     "main.af8c69ad.css.map": "//kabbotalukder.github.io//student-portal/static/css/main.af8c69ad.css.map",
-    "main.b151743a.js.map": "//kabbotalukder.github.io//student-portal/static/js/main.b151743a.js.map"
+    "main.5f8f203a.js.map": "//kabbotalukder.github.io//student-portal/static/js/main.5f8f203a.js.map"
   },
   "entrypoints": [
     "static/css/main.af8c69ad.css",
-    "static/js/main.b151743a.js"
+    "static/js/main.5f8f203a.js"
   ]
 }
